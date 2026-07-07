@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PropPilot AI
 
 **An Autonomous Multi-Agent Lead Conversion Platform for Real Estate**
@@ -241,3 +242,6 @@ This is a hackathon MVP. Contributions, issues, and feature requests are welcome
 ## 📄 License
 
 MIT
+=======
+# proppilot.ai
+>>>>>>> d042f3aeea70a963bb375b7110af8ba5981c884a

@@ -156,7 +156,7 @@ def seed():
             data["bedrooms"],
             data["bathrooms"],
             data["area_sqft"],
-            data["property_type"],
+            data["property_type"].upper(),
             data["description"],
             json.dumps(data["amenities"]),
             1 if data["is_active"] else 0,

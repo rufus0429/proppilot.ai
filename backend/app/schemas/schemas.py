@@ -415,11 +415,11 @@ class ActivityResponse(BaseModel):
     activity_type: str
     title: str
     description: Optional[str] = None
-    metadata: Optional[Any] = None
-    created_at: datetime
-
-    class Config:
-        from_attributes = True
+    metadata: Optional[Any] = Field(default=None, alias="meta_data")
+...
+class Config:
+    from_attributes = True
+    populate_by_name = True
 
 
 class AppointmentCreate(BaseModel):
