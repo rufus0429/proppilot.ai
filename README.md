@@ -9,7 +9,6 @@ PropPilot AI automates the entire real estate lead nurturing workflow using AI A
 - **🤖 AI Agent Suite** - Lead Qualification, Scoring, Property Recommendation, and Journey Builder agents powered by Google Gemini
 - **🔄 LangGraph Workflow** - Orchestrated multi-agent pipeline that processes leads autonomously
 - **📊 Smart Dashboard** - Real-time analytics with lead metrics, conversion rates, and AI insights
-- **📋 Kanban Pipeline** - Visual lead pipeline with drag-and-drop status management
 - **🗺️ AI Journey Builder** - Generates personalized multi-channel follow-up sequences (WhatsApp, Email, SMS, Call)
 - **🏠 Property Management** - Full CRUD for properties with smart matching
 - **📅 Appointment Scheduling** - Site visit management with reminders
